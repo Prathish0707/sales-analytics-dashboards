@@ -1,189 +1,119 @@
-🍕 Pizza Hut Sales Analysis Dashboard (Power BI)
-📌 Project Overview
+# 🍕 Pizza Hut Sales Analysis Dashboard  
+### *(Power BI Project)*
 
-This project is a Power BI Sales Analysis Dashboard created to analyze Pizza Hut sales data and generate meaningful business insights.
-The main objective of this project is to understand sales performance, customer demand, and product trends using interactive visualizations.
+---
 
-The dashboard helps stakeholders answer key business questions such as:
+## 📌 Project Overview
 
-How sales are performing over time
+This project is a **Power BI Sales Analysis Dashboard** created to analyze **Pizza Hut sales data** and extract meaningful **business insights**.  
+The dashboard transforms raw transactional data into **interactive visual reports** that help stakeholders understand sales performance, customer behavior, and product trends.
 
-Which pizzas are the best sellers
+The main objective of this project is to demonstrate **data analysis, data modeling, and visualization skills** using Power BI.
 
-What categories generate the highest revenue
+---
 
-How customer orders vary by time and product
+## 🎯 Business Objectives
 
-This project demonstrates my ability to transform raw data into actionable insights using Power BI.
+The dashboard was designed to answer key business questions such as:
 
-🎯 Business Problem Statement
+- How is overall sales performance changing over time?
+- Which pizza categories and types generate the highest revenue?
+- What are the best-selling and least-selling items?
+- How do daily and monthly order trends vary?
+- Which time periods contribute most to total revenue?
 
-Pizza Hut operates with a large volume of daily orders and multiple product categories.
-Without proper analysis, it becomes difficult to:
+---
 
-Track sales trends
+## 🛠 Tools & Technologies Used
 
-Identify best and worst performing pizzas
+- **Power BI**
+- **Power Query (ETL)**
+- **DAX (Data Analysis Expressions)**
+- **Data Modeling**
+- **Interactive Visualizations**
 
-Understand customer ordering behavior
+---
 
-Make data-driven decisions
+## 📂 Dataset Description
 
-This dashboard solves that problem by presenting clear KPIs, trends, and comparisons in a single interactive report.
+The dataset contains structured sales information including:
 
-🛠 Tools & Technologies Used
+- Order date and time  
+- Pizza category and type  
+- Quantity sold  
+- Order count  
+- Revenue details  
 
-Power BI Desktop
+The data was cleaned and transformed using **Power Query** before building the dashboard.
 
-Power Query – for data cleaning and transformation
+---
 
-DAX (Data Analysis Expressions) – for calculated measures
+## 🔄 Data Preparation Process
 
-Data Modeling
+The following steps were performed during data preparation:
 
-Interactive Visualizations
+- Removed duplicate and null values  
+- Standardized column names and data types  
+- Created calculated columns for time-based analysis  
+- Built relationships between tables (if applicable)  
+- Optimized data for efficient reporting  
 
-🗂 Data Description
+---
 
-The dataset used in this project contains Pizza Hut sales information including:
+## 📊 Dashboard Features
 
-Order details
+The Power BI dashboard includes:
 
-Pizza names and categories
+- 📈 **Sales & Revenue Trends** (Daily / Monthly)
+- 🍕 **Best & Worst Selling Pizzas**
+- 📦 **Category-wise Sales Analysis**
+- ⏰ **Order Volume by Time**
+- 📊 **KPI Cards** for quick insights
+- 🎛 **Interactive Filters & Slicers**
 
-Quantity sold
+All visuals are fully interactive and update dynamically based on user selections.
 
-Revenue and price details
+---
 
-Date and time of orders
+## 📌 Key Insights Generated
 
-Before building the dashboard, the data was cleaned and prepared to ensure accuracy and consistency.
+Some of the insights derived from the dashboard:
 
-🔄 Data Cleaning & Preparation
+- Certain pizza categories consistently outperform others in revenue
+- Peak sales occur during specific time slots
+- A small number of pizza types contribute to a large share of total revenue
+- Seasonal patterns impact order volume and sales trends
 
-The following steps were performed using Power Query:
+These insights can help businesses improve **menu planning, pricing strategies, and promotional campaigns**.
 
-Removed duplicate and null values
+---
 
-Corrected data types (dates, numbers, text)
+## 📁 Project File
 
-Standardized column names
+- **Power BI File:**  
+  `Pizza_Hut_Sales_Dashboard.pbix`
 
-Created derived columns where required
+> ⚠️ Note: The `.pbix` file can be downloaded and opened using **Power BI Desktop**.
 
-Prepared data for time-based analysis
+---
 
-This ensured the dataset was analysis-ready.
+## 🧠 Skills Demonstrated
 
-🧮 Data Modeling & DAX Measures
+- Data cleaning and transformation  
+- DAX calculations and measures  
+- Dashboard design and storytelling  
+- Business-oriented data analysis  
+- Visualization best practices  
 
-To enable advanced analysis, several DAX measures were created, such as:
+---
 
-Total Revenue
+## 👤 Author
 
-Total Orders
+**Pratish**  
+Aspiring Data Analyst  
 
-Total Quantity Sold
+📌 *This project is part of my data analytics portfolio and demonstrates my ability to convert raw data into actionable business insights using Power BI.*
 
-Average Order Value
+---
 
-Sales by Category
-
-Time-based measures (daily, monthly trends)
-
-These measures allow the dashboard to respond dynamically to filters and slicers.
-
-📊 Dashboard Features & Insights
-
-The Power BI dashboard provides insights such as:
-
-🔹 Sales Performance
-
-Overall revenue and order trends
-
-Peak sales periods
-
-Growth and decline patterns
-
-🔹 Product Analysis
-
-Best-selling pizzas
-
-Category-wise revenue contribution
-
-High-demand vs low-demand items
-
-🔹 Customer Behavior
-
-Order quantity trends
-
-Popular items based on time
-
-Purchase frequency patterns
-
-🔹 Time-Based Analysis
-
-Daily and monthly sales trends
-
-Performance comparison across periods
-
-The dashboard is fully interactive, allowing users to filter data and explore insights easily.
-
-📈 Key Business Insights
-
-Identified top-performing pizza categories
-
-Highlighted best-selling products
-
-Observed seasonal and time-based sales trends
-
-Provided insights to support inventory and marketing decisions
-
-These insights can help businesses increase revenue and improve decision-making.
-
-📁 Project File
-
-Power BI File:
-Pizza_Hut_Sales_Dashboard.pbix
-
-Note: Download the .pbix file and open it using Power BI Desktop to explore the interactive dashboard.
-
-🎯 Skills Demonstrated
-
-Data cleaning and transformation
-
-Data modeling
-
-DAX calculations
-
-Business analytics
-
-Dashboard design
-
-Data storytelling
-
-Power BI proficiency
-
-👤 Author
-
-Pratish
-Aspiring Data Analyst
-
-Skilled in Power BI, Excel, SQL, and Data Analysis
-
-Interested in transforming data into business insights
-
-📌 How to Use This Project
-
-Download the .pbix file
-
-Open it in Power BI Desktop
-
-Explore visuals using filters and slicers
-
-Analyze sales trends and insights
-
-⭐ Conclusion
-
-This Power BI project showcases my ability to analyze real-world sales data and present insights in a clear, visual, and business-oriented manner.
-It reflects my interest in data analytics and dashboard development and my readiness for entry-level data analyst roles.
+⭐ If you find this project useful, feel free to explore and provide feedback!
