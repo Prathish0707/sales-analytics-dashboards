@@ -109,7 +109,7 @@ These insights can help businesses improve **menu planning, pricing strategies, 
 
 ## 👤 Author
 
-**Pratish**  
+**Prathish**  
 Aspiring Data Analyst  
 
 📌 *This project is part of my data analytics portfolio and demonstrates my ability to convert raw data into actionable business insights using Power BI.*
